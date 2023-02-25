@@ -12,8 +12,13 @@ app.use(express.json());
 const dotenv = require('dotenv');
 dotenv.config();
 
-const URL = process.ENV.MONGODB;
-mongoose.connect(URL);
+mongoose
+    .connect(process.env.MONGODB, {
+        useNewUrlParser: true,
+        useUnifiedTopology: true
+    })
+    .then(() => console.log("Mongodb Connected..."))
+    .catch((err) => console.error(err));
 
 
 app.get("/",(req,res)=>{

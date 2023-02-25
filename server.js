@@ -15,6 +15,11 @@ dotenv.config();
 const URL = process.ENV.MONGODB;
 mongoose.connect(URL);
 
+
+app.get("/",(req,res)=>{
+  res.send( {advertisement : "Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me and you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl ."});
+});
+
 app.post("/api/register", async (req, res) => {
   const newPassword = await bcrypt.hash(req.body.password, 10);
   try {

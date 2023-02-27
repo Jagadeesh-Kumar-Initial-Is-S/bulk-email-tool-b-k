@@ -8,7 +8,7 @@ Task - Bulk Email Tool Backend
 
 # Brief
 
-Kindly add create oAuth credentials and update the relevant parameters to test
+Kindly update the relevant parameters to test.
 
 <hr/>
 
@@ -26,12 +26,24 @@ Back-end which is used is equal to NodeJs or Node.js
 
 # Back-end Source code
 
-Back-end Source code's link is equal to # .
+Back-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/bulk-email-tool-b-k .
 
 <hr/>
 
 # Back-end Deployed URL
 
-Back-end Deployed URL's link is equal to #.
+Back-end Deployed URL's link is equal to https://bulk-email-tool-b-k.vercel.app/ .
+
+<hr/>
+
+# Front-end Source code
+
+Front-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/bulk-email-tool-f-e .
+
+<hr/>
+
+# Front-end Deployed URL
+
+Back-end Deployed URL's link is equal to https://bulk-email-tool-f-e.vercel.app/ .
 
 <hr/>

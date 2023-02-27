@@ -1,4 +1,4 @@
-import express, { json } from "express";
+import express from "express";
 const app = express();
 import cors from "cors";
 import { connect } from "mongoose";
@@ -20,7 +20,7 @@ connect(process.env.MONGODB, {
     .catch((err) => console.error(err));
 
 
-app.get("/",(req,res)=>{
+app.get("/", async (req,res)=>{
   res.send( {advertisement : "Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me and you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl ."});
 });
 

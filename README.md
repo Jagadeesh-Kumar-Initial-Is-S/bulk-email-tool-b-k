@@ -20,7 +20,13 @@ Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email addres
 
 # Back-end
 
-Back-end which is used is equal to NodeJs or Node.js
+Back-end which is used is equal to Nodejs
+
+<hr/>
+
+# Database
+
+Database which is used is equal to MongoDB
 
 <hr/>
 
@@ -36,19 +42,11 @@ Back-end Deployed URL's link is equal to https://bulk-email-tool-b-k.vercel.app/
 
 <hr/>
 
-# Front-end Source code
-
-Front-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/bulk-email-tool-f-e .
-
-<hr/>
-
-# Front-end Deployed URL
-
-Back-end Deployed URL's link is equal to https://bulk-email-tool-f-e.vercel.app/ .
-
-<hr/>
-
 # Screenshots
+
+## Dashboard
+
+![Screenshot from 2023-02-28 17-55-24-1](https://user-images.githubusercontent.com/115778774/221854829-c2297b4e-018f-4cc8-bc4e-e37d9b894b87.png)
 
 ## Proof 001
 
@@ -62,4 +60,22 @@ Back-end Deployed URL's link is equal to https://bulk-email-tool-f-e.vercel.app/
 
 ![Screenshot from 2023-02-28 18-10-38](https://user-images.githubusercontent.com/115778774/221857005-e74f9d1c-9b2e-499e-8aec-ced4c314f750.png)
   
+<hr/>
+
+# Front-end
+
+Front-end which is used is equal to Reactjs
+
+<hr/>
+
+# Front-end Source code
+
+Front-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/bulk-email-tool-f-e .
+
+<hr/>
+
+# Front-end Deployed URL
+
+Back-end Deployed URL's link is equal to https://bulk-email-tool-f-e.vercel.app/ .
+
 <hr/>
